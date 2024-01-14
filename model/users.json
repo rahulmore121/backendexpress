@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Abhi",
+    "password": "$2b$10$bF0mJy7fl0NHAbgAwMqlbOs87mFf33jqMw5L60F83wuKg/GUVLI0q",
+    "refreshToken": "",
+    "roles": { "User": 2001 }
+  },
+  {
+    "username": "Sahil",
+    "password": "$2b$10$bF0mJy7fl0NHAbgAwMqlbOs87mFf33jqMw5L60F83wuKg/GUVLI0q",
+    "refreshToken": "",
+    "roles": { "User": 2001, "Editor": 1984 }
+  },
+  {
+    "username": "Rahul",
+    "password": "$2b$10$bF0mJy7fl0NHAbgAwMqlbOs87mFf33jqMw5L60F83wuKg/GUVLI0q",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJhaHVsIiwiaWF0IjoxNzAyNTYyOTA4LCJleHAiOjE3MDI2NDkzMDh9.LfbzNOwItC4VtkzECHP2kfw7uSQ5T07YSdmi3RmYDEw",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 }
+  }
+]
